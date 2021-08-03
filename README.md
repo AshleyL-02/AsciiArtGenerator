@@ -1,5 +1,5 @@
 # AsciiArtGenerator
-Converts an image into ascii art.
+Converts an image into ascii art
 
 Features:
 - Contrast boost, for clearer images
