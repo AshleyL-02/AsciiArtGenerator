@@ -61,3 +61,7 @@ Demo w/ edges:
              \--                  --/            
 
 ```
+
+Original:
+
+![mushroom](https://user-images.githubusercontent.com/56645274/127963708-118121f0-1130-4536-b41a-6427c3f8d026.PNG)
