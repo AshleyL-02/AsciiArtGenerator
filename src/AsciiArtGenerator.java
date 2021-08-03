@@ -10,7 +10,7 @@ import javax.imageio.ImageIO;
  * Doesn't work on transparent images.
  */
 public class AsciiArtGenerator {
-    private static String DEMO_FILE_NAME = "C:\\Users\\Ashley Luty\\Desktop\\pics\\torus.png";
+    private static String DEMO_FILE_NAME = "C:\\Users\\Name\\Desktop\\torus.png";
     
     // ART ADJUSTMENT FIELDS
     private static int ART_CHAR_WIDTH = 160;    // character width of the resulting ascii art
