@@ -1,9 +1,10 @@
 # AsciiArtGenerator
-Converts an image into ascii art
+Converts an image into ascii art.
+Created as a program demo for Intermediate Java students to learn from.
 
 Features:
-- Contrast boost, for clearer images
-- Edge detection using Sobel operator
+- Edge detection using the Sobel operator
+- Contrast boost for clearer images, using an arctan sigmoid function
 
 Demo w/o edges:
 ```
