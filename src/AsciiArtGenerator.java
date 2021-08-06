@@ -7,7 +7,6 @@ import javax.imageio.ImageIO;
 
 /*
  * Converts image into ascii art, with contrast boost and edge detection (Sobel operator).
- * Doesn't work on transparent images.
  */
 public class AsciiArtGenerator {
     private static String DEMO_FILE_NAME = "C:\\Users\\Name\\Desktop\\torus.png";
