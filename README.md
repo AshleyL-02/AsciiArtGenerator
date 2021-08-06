@@ -4,7 +4,7 @@ Created as a program demo for Intermediate Java students to learn from.
 
 Features:
 - Edge detection using the Sobel operator
-- Contrast boost for clearer images, using an arctan sigmoid function
+- Contrast boost for clearer images, using a sigmoid function
 
 Demo w/o edges:
 ```
